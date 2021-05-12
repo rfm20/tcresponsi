@@ -1,6 +1,6 @@
 # Tugas Teknologi Cloud - Responsi
 
-Masuk dan Jalankan playground katacoda [disini](https://github.com/dicodingacademy/a219-mfwde-labs/raw/099-starter-project/restaurant-apps.zip).
+Masuk dan Jalankan playground katacoda [disini](https://www.katacoda.com/courses/docker/playground).
 
 Lakukan pull dengan command berikut!
 ```docker
