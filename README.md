@@ -13,7 +13,7 @@ docker pull rizki20/tcresponsi
 docker run -d -p 80:80 --name rizki rizki20/tcresponsi
 ```
 
-Selanjutnya tekan tombol `"+"` dan pilih `"View HTTP port 80 on Host 1"`
+- Selanjutnya tekan tombol `"+"` dan pilih `"View HTTP port 80 on Host 1"`
 
 ---
 
